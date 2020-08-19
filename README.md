@@ -78,7 +78,7 @@ bot.login("YOUR TOKEN")
 > How to Fork This repo? By click [Here!](https://github.com/Jovantri10/FlagsDiscordPy/fork). Thank you
 
 # Found error?
-> Found error? Write what error on [Here!]()
+> Found error? Write what error on [Here!](https://github.com/Jovantri10/FlagsDiscordPy/issues/new)
 
 ```python
 © Jovantri Immanuel Gulo
